@@ -1,0 +1,23 @@
+1) lounch aws instance
+2) open the instance in mobax
+3) sudo su -
+4) wget url(jfrog that is in whatsapp)
+5)ls
+6)cd artifactory
+7)ls
+8)cd app/
+9)ls
+10)cd bin
+11)ls
+12)./artifactoryctl
+ 
+in browser
+13)copy public ipv4
+14)past in browser ip:8082
+15)username(admin)
+16)password(password)
+17)login
+18)get start
+19)change pass
+20)skip all test
+21)finish
